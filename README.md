@@ -2,11 +2,14 @@
 May  -2024
 
 <hr>
-<h2>Team 🤝<h2>
-<ol>
+
+<h2>Team 🤝</h2>
+<br>
+<ol><b>
   <li>Shivam Sharma - shivsharcode</li>  
   <li>Vishwas Kumar Jaiswal - anuragjais189</li>
   <li>Sahil Pratap Singh</li>
+</b>
 </ol>
 
 <hr>
